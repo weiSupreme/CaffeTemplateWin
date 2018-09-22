@@ -1,0 +1,1 @@
+windows下的独立caffe工程模板。
